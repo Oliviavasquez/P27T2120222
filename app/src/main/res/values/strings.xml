@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P27T2120222</string>
+    <string name="titulo">Operaciones Basicas</string>
+    <string name="Enum1">Ingrese el primer numero</string>
+    <string name="Enum2">Ingrese el segundo numero</string>
+    <string name="Enum3">Ingrese el tercer numero</string>
+    <string name="Resultado">El resultado es: </string>
+    <string name="place1">Escribe el numero1</string>
+    <string name="place2">Escribe el numero2</string>
+    <string name="letrobtn">Calcular</string>
+</resources>
